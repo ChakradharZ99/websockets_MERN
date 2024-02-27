@@ -1,6 +1,5 @@
 import Message from "./components/Message";
-import Navbar from "./components/Navbar";
-
+import '../src/index.css';
 function App() {
   return(
     <>
